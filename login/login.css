@@ -1,0 +1,56 @@
+body a img {
+  height: 50px; 
+  margin-right: 20px;
+}
+
+form {
+  width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #7dd3e2;
+}
+
+
+
+p , h1 {
+  margin-bottom: 20px;
+  color: #7dd3e2;
+  text-align: center;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  color: #7dd3e2;
+}
+
+input[type="text"],
+input[type="password"] {
+  width: 80%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #7dd3e2;
+  border-radius: 5px;
+  color: #7dd3e2;
+  text-align: center;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #7dd3e2;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+  float: right;
+}
+
+button:hover {
+  background-color: #27ca58;
+}
